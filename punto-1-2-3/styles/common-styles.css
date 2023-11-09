@@ -1,0 +1,19 @@
+/*Este archivo nos ayuda a enlazar cosas en común, en este caso
+la tipografia "jost"*/
+
+a {
+    font-family: 'Jost';
+}
+
+button {
+    padding: 10px 25px; /* en este caso le dimos espaciado interno para agrandar un poco el botton*/
+    font-family: 'Jost';
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+p {
+    font-family: 'Jost';
+    font-size: 14px;
+}
