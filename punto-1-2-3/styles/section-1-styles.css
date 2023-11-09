@@ -1,0 +1,27 @@
+#section-1 {
+    display: flex;
+    justify-content: space-between;
+    margin: 60px 180px;
+    }
+
+.section-1__info {
+    width: 30%;
+    }
+
+.section-1__info p {
+    color: #454868;
+}
+
+.section-1__card {
+    width: min-content; /*Toma el minimo contenido y se lo aplica a los demás*/
+    height: 190px;
+    text-align: center;
+    
+    padding: 25px;
+    border-radius: 48px ;
+    box-shadow: 0px 0px 20px 10px #45486834; /* 0px  0px desplazamiento en eje X y Y 10px ruido de la sombra  10px expansión sombra*/ 
+}
+
+.section-1__card-down {
+    margin-top: 40px;
+}

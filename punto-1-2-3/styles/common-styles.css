@@ -23,3 +23,12 @@ p {
     border: none;
     color: white;
 }
+
+h2 {
+    font-family: 'Jost';
+    font-size: 48px;
+    color: #010851;
+    line-height: 124%;
+    letter-spacing: -1%;
+    margin: 0;
+}
