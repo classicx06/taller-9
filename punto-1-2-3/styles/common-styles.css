@@ -6,7 +6,7 @@ a {
 }
 
 button {
-    padding: 10px 25px; /* en este caso le dimos espaciado interno para agrandar un poco el botton*/
+    padding: 15px 25px; /* en este caso le dimos espaciado interno para agrandar un poco el botton*/
     font-family: 'Jost';
     font-weight: bold;
     border-radius: 10px;
@@ -16,4 +16,10 @@ button {
 p {
     font-family: 'Jost';
     font-size: 14px;
+}
+
+.button--orange {
+    background-color: #FD909E;
+    border: none;
+    color: white;
 }

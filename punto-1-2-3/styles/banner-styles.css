@@ -4,11 +4,11 @@
     padding: 80px;
     background: linear-gradient(313deg, #EE9AB5 3.28%, #5961F9 97.04%);
     border-radius: 48px 48px 300px 48px;
+    color: white;
 }
 
 h1 {
     font-family: 'Jost';
-    color: white;
     font-size: 50px;
     line-height: 124%;
     letter-spacing: -1%;
@@ -19,24 +19,10 @@ h1 {
     height: 370px;
 }
 
-.banner__text p {
-    color: white;
-}
 
-.banner__buttons {
-    padding: 10px 0px;
-    display: flex;
-    gap: 15px;
-}
-
-.button__1 {
-    background-color: #FD909E;
-    border: 1px solid #FD909E;
-    color: white;
-}
-
-.button__2 {
+.button--transparent {
     background-color: transparent;
-    border: 1px solid white;
     color: white;
+    border: 1px solid; /* no colocamos el color porque anteriormente css detecte el white y se lo aplica al borde también */
+    margin-left: 20px;
 }
