@@ -18,6 +18,8 @@
 
 <h2>Punto 3: Diseño en CSS</h2>
 
+<img src="./public/images/punto-3.png" alt="punto-3">
+
 <h2>Punto 4: Titulos</h2>
 
 <h2>Punto 5: Párrafo</h2>

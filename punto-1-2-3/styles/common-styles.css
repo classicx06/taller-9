@@ -1,6 +1,11 @@
 /*Este archivo nos ayuda a enlazar cosas en común, en este caso
 la tipografia "jost"*/
 
+body {
+    margin: 0px;
+}
+
+
 a {
     font-family: 'Jost';
 }
