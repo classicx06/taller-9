@@ -6,6 +6,7 @@
 
 <h2>Link de la página web</h2>
 
+<a href="https://classicx06.github.io/taller-9/">link de Página web</a>
 
 <h2>Punto 1: Link de Figma</h2>
 
@@ -21,6 +22,8 @@
 <img src="./public/images/punto-3.png" alt="punto-3">
 
 <h2>Punto 4: Titulos</h2>
+
+<img src="./public/images/punto-4.png" alt="punto-4">
 
 <h2>Punto 5: Párrafo</h2>
 
