@@ -1,0 +1,31 @@
+
+p {
+    margin: 60px 330px;
+}
+
+.sub__green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.over-under__line {
+    text-decoration: underline overline;
+}
+
+.bold {
+    font-size: 55px;
+}
+
+.red-2 {
+    color: red;
+    font-size: 18px;
+}
+
+.blue {
+    color: blue;
+    line-height: 70px;
+    font-size: 18px;
+}
