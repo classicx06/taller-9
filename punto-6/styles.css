@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: #8082fde3;
+.links {
+    width: 326px;     
+    height: 200px;
+    text-align: left;
+}
+
+.link-1 {
+    color: yellow;
+}
+
+.link-2 {
+    color: purple;
+}
