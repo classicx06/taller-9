@@ -35,4 +35,8 @@
 
 <h2>Punto 7 y 8: Navegación</h2>
 
+<img src="./public/images/punto-7-8.png" alt="punto-7-8">
+
+<h2>Punto 9: Tablas</h2>
+
 

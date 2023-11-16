@@ -1,0 +1,30 @@
+body {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+
+nav {
+    background-color: plum;
+    width: 600px;
+
+}
+
+
+ul {
+    display: flex;
+    list-style: none;
+    
+}
+
+li {
+    font-size: 20px;
+    color: white;  
+    padding: 12px 17px;
+    cursor: pointer;
+}
+
+.background {
+    background-color: blue;
+}
