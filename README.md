@@ -1,7 +1,7 @@
 <h1>Taller 9 - Fabian Esteban Bonilla Celis</h1>
 
 <h2>Información</h2>
-<p>Curco: Full Stack Básico - Grupo 1</p>
+<p>Curso: Full Stack Básico - Grupo 1</p>
 <p>Profesor: Cristian Patiño</p> 
 
 <h2>Link de la página web</h2>
