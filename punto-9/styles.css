@@ -1,0 +1,24 @@
+
+table {
+    margin: 30px 270px;
+    background-color: yellow;
+    border-collapse: collapse;
+    border: 2px dotted black;
+}
+
+thead {
+    color: red;
+    font-style: italic;
+}
+
+th {
+    font-size: 13px;
+}
+
+th::first-letter {
+    font-size: 25px;
+}
+
+td {
+    border: 1px dotted black;
+}

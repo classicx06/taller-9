@@ -39,4 +39,4 @@
 
 <h2>Punto 9: Tablas</h2>
 
-
+<img src="./public/images/punto-9.png" alt="punto-9">
